@@ -1,28 +1,25 @@
-<h1 align="center">Hey, I'm kija 👋</h1>
+<h1 align="center">Hey, im kija.</h1>
 
 <p align="center">
-  <b>Sysadmin by day, builder by night.</b><br>
-  I like building and developing things in my free time — from homelab infrastructure to web projects.
+  I like building and developing things in my free time, from homelab infrastructure to web projects.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kijacs&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/kijacs?style=for-the-badge&logo=github&color=7C3AED" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=k1jaa&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/k1jaa?style=for-the-badge&logo=github&color=7C3AED" alt="GitHub followers">
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🖥️ System Administrator in Frankfurt, Germany
-- 🎓 Fachinformatiker apprentice
-- 🐧 Daily driving Arch Linux + Hyprland
-- 🏠 Running a homelab (Proxmox, self-hosted services, VPS)
-- 🌐 Currently working on my personal portfolio
+- System Administrator in Frankfurt, Germany
+- Daily driving Arch Linux + Hyprland
+- Currently working on my personal portfolio
 
 ---
 
-## 💻 Languages
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,20 +27,20 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-## 🎨 Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🖥️ Operating Systems
+## Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🏠 Homelab & Infrastructure
+## Homelab & Infrastructure
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +49,7 @@
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-## 🛠️ Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -62,11 +59,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kijacs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kijacs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=k1jaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1jaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
